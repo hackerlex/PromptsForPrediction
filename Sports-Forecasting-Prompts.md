@@ -35,7 +35,7 @@ Explore valuable opportunities based on player/team form and historical outcomes
 🧠 Prompt:
 
 ```txt
-"[Insert Prediction Here] — Evaluate this outcome based on head-to-head history, current match momentum, and statistical odds. Does it present a reasonable risk-to-reward ratio?"
+"[Insert Chances Here] — Evaluate this outcome based on head-to-head history, current match momentum, and statistical odds. Does it present a reasonable risk-to-reward ratio?"
 ```
 
 Use Cases:
