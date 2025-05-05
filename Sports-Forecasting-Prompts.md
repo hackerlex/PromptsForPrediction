@@ -88,8 +88,6 @@ Outcome: Win
 * Forecasting algorithm demos
 * Data visualization storytelling
 
-> “If your startup were a sports team, would investors back them based on their predictive performance?”
-
 This visualization, combining bar graphs and tabular insights, showcases how data storytelling can simplify complex scenarios — whether in sports, business, or any competitive space.
 
 ---
