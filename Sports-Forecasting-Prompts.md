@@ -76,7 +76,7 @@ Outcome: Win
 🧠 Prompt:
 
 ```txt
-Prediction; Sunrisers Hyderabad – Delhi Capitals: Delhi Capitals Wicket in over 5 — Evaluate this outcome based on over-wise wicket patterns and pressure overs. What’s the probability of this occurring based on previous match breakdowns?
+Prediction; Sunrisers Hyderabad – Delhi Capitals: Delhi Capitals Wicket in over 5 — Evaluate this outcome based on head-to-head history, current match momentum, and statistical odds. Does it present a reasonable risk-to-reward ratio?
 ```
 
 Sample Data Prompt:
@@ -89,7 +89,7 @@ Outcome: Win
 🧠 Prompt:
 
 ```txt
-Prediction; Sunrisers Hyderabad – Delhi Capitals: Delhi Capitals Wicket in over 4 — Assess the probability of Delhi maintaining a wicket during this over based on past wicket falls and early over stability.
+Prediction; Sunrisers Hyderabad – Delhi Capitals: Delhi Capitals Wicket in over 4 — Analyze the statistical probability of this outcome based on recent team performance, pitch behavior, and player form. Is this a low-risk, high-consistency prediction worth considering?.
 ```
 
 Sample Data Prompt:
@@ -102,7 +102,7 @@ Outcome: Win
 🧠 Prompt:
 
 ```txt
-Prediction; Sunrisers Hyderabad – Delhi Capitals: Total runs in over 19 delivery 1 — Analyze Delhi’s end-over acceleration rate and strike rotation pattern. Are they likely to score above 3.5 on this delivery?
+Prediction; Sunrisers Hyderabad – Delhi Capitals: Total runs in over 19 delivery 1 — Considering the low probability but high return, what’s the realistic likelihood of this outcome based on upset patterns, player volatility, and match-day surprises?
 ```
 
 ### 🧪 Scenario 2: Match - Punjab Kings vs Lucknow Super Giants (04.05.2025)
@@ -117,7 +117,7 @@ Outcome: Win
 🧠 Prompt:
 
 ```txt
-Prediction; Punjab Kings – Lucknow Super Giants: Punjab Kings > 209.5 — Evaluate the projected scoring trend for this team based on powerplay performance, death over acceleration, and past inning totals in similar conditions. Is this projection feasible?
+Prediction; Punjab Kings – Lucknow Super Giants: Punjab Kings > 209.5 — Analyze the statistical probability of this outcome based on recent team performance, pitch behavior, and player form. Is this a low-risk, high-consistency prediction worth considering?
 ```
 
 Sample Data Prompt:
@@ -130,7 +130,7 @@ Outcome: Win
 🧠 Prompt:
 
 ```txt
-Prediction; Punjab Kings – Lucknow Super Giants: Lucknow even total in over 19 — Based on over-by-over score frequency, what are the odds of Lucknow achieving an even run count in this late over phase?
+Prediction; Punjab Kings – Lucknow Super Giants: Lucknow even total in over 19 — Considering the low probability but high return, what’s the realistic likelihood of this outcome based on upset patterns, player volatility, and match-day surprises?
 ```
 
 ---
