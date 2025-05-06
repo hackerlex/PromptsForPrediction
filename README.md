@@ -54,7 +54,7 @@ Prompt engineering is the art of turning natural language into machine-understan
 
 ## 📫 Stay Connected
 
-This is just the beginning. If you’re into AI + prompt engineering + prediction = 💡 — then you’re in the right place.
+This is just the beginning. If you’re into AI + prompt engineering = prediction 💡 — then you’re in the right place.
 
 Star ⭐ the repo. Fork 🍴 it. Prompt 🧙‍♀️ it.
 
