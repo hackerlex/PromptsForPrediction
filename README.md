@@ -29,6 +29,10 @@ Prompt engineering is the art of turning natural language into machine-understan
   - Sentiment Analysis
   - Trend Forecasting
   - Behavior Prediction
+  - Healthcare Risk Prediction
+  - Financial Fraud Detection
+  - Consumer Behavior & Market Risks
+  - Supply Chain Disruptions
 
 ---
 
