@@ -98,7 +98,7 @@ This repository is for educational and analytical use only. No real-money gambli
 
 ---
 
-## 🧠 Tags
+## 🧠 Auther https://linkedin.com/in/hackerlex
 
 \#PromptEngineering #SportsAnalytics #AIinSports #CricketForecasting #DataDrivenInsights #TechMindset #LearningBySimulation
 
